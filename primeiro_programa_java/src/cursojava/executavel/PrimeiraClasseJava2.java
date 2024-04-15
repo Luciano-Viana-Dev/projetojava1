@@ -37,7 +37,6 @@ public class PrimeiraClasseJava2 {
 		aluno1.setNota3(70.9);
 		aluno1.setNota4(90.7);
 		
-		
 		System.out.println("*****************LISTA DE ALUNOS*****************");
 		/*GET recuperar os dados dentro do objeto*/
 		System.out.println("Nome do aluno 1: " + aluno1.getNome());
