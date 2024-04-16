@@ -11,7 +11,6 @@ public class PrimeiraClasseJava2 {
 		/*Objeto ainda não existe na memória*/
 		Aluno aluno0;
 		
-		
 		/*Agora sim temos um objeto real na memória*/
 		/*Construtor padrão*/
 		/*new Aluno() é uma instânciar (Criação de Objeto)*/
