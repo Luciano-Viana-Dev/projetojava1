@@ -6,6 +6,5 @@ public class ClasseTeste {
 		
 		System.out.println("Olá mundo");
 		
-		
 	}
 }
